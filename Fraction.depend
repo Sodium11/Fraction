@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541144678 source:/home/yutaro/C/Fraction/main.cpp
+	<iostream>
+	"fraction.h"
+
+1541144778 /home/yutaro/C/Fraction/fraction.h
+
+1541253332 source:/home/yutaro/Works/Workspace/C++/Fraction/main.cpp
+	<iostream>
+	"fraction.h"
+	"formula_solver.h"
+
+1541253012 /home/yutaro/Works/Workspace/C++/Fraction/fraction.h
+
+1541253456 /home/yutaro/Works/Workspace/C++/Fraction/formula_solver.h
+	"fraction.h"
+
